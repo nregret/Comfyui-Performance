@@ -1,0 +1,10 @@
+{
+  "ComfyPerformance_open": {
+    "name": "性能监控",
+    "tooltip": "打开或关闭性能监控面板。"
+  },
+  "ComfyPerformance_dockInMenuBar": {
+    "name": "性能监控条",
+    "tooltip": "在 ComfyUI 工具栏中显示紧凑性能监控条。"
+  }
+}

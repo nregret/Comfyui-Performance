@@ -1,0 +1,23 @@
+[project]
+name = "performance-monitor"
+description = "ComfyUI 实时性能监控插件，支持 CPU、内存、显存、磁盘和磁盘读写监控。A modern real-time CPU, RAM, VRAM, disk, and disk I/O monitor for ComfyUI."
+version = "1.0.0"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "psutil>=5.9.0",
+    "nvidia-ml-py>=12.535.77",
+]
+
+[project.urls]
+Repository = "TODO: https://github.com/<owner>/<repository>"
+Documentation = "TODO: https://github.com/<owner>/<repository>#readme"
+
+[tool.comfy]
+PublisherId = "TODO"
+DisplayName = "Performance Monitor"
+Icon = ""
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

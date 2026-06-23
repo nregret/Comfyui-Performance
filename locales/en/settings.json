@@ -1,0 +1,10 @@
+{
+  "ComfyPerformance_open": {
+    "name": "Performance Monitor",
+    "tooltip": "Open or close the performance monitor panel."
+  },
+  "ComfyPerformance_dockInMenuBar": {
+    "name": "Performance Dock",
+    "tooltip": "Show the compact performance bar in the ComfyUI toolbar."
+  }
+}
