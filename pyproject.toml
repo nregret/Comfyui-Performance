@@ -10,8 +10,8 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "TODO: https://github.com/<owner>/<repository>"
-Documentation = "TODO: https://github.com/<owner>/<repository>#readme"
+Repository = "https://github.com/nregret/Comfyui-Performance"
+Documentation = "https://github.com/nregret/Comfyui-Performance#readme"
 
 [tool.comfy]
 PublisherId = "TODO"
