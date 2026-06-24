@@ -14,7 +14,7 @@ Repository = "https://github.com/nregret/Comfyui-Performance"
 Documentation = "https://github.com/nregret/Comfyui-Performance#readme"
 
 [tool.comfy]
-PublisherId = "TODO"
+PublisherId = "nnegret"
 DisplayName = "Performance Monitor"
 Icon = ""
 
